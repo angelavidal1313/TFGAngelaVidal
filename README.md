@@ -1,6 +1,6 @@
 # TFG Ángela Vidal Monge
 
-A continuación se describe la funcion de cada uno de los códigos realizados en R empleados en el Trabajo de Fin de Grado: Modelo de sistemas de colas basado en procesos MAP. Para facilitar su manejo, los códigos han sido organizados por capítulos:
+A continuación se describe el contenido de cada uno de los códigos realizados en R empleados en el Trabajo de Fin de Grado: Modelo de sistemas de colas basado en procesos MAP. Para facilitar su manejo, los códigos han sido organizados por capítulos:
 
 ## Capítulo 2
 - Figure1.R : Implementación de la Figura 1.
