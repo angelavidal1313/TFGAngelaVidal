@@ -18,4 +18,8 @@ A continuación se describe la funcion de cada uno de los códigos realizados en
 - EjSimuladorMAP2.R : Implementación del ejemplo dado por las matrices de la ecuación (3.20).
 
 ### 3.3. Inferencia
+- FuncionesInferencia.R : Contiene las funciones empleadas en el proceso de inferencia: delta, delta_beta, inference_new...
+- EjemploInferencia.R : Implementación del ejemplo dado por las matrices de la ecuación (3.22), incluyendo las Figuras 16 y 17.
+- Análisis G2.R y Análisis G3.R : Estudio de la inferencia para los intervalos G2 y G3 expuesto en la subsección 3.3.2., incluyendo las gráficas para la Figura 18 y las Tablas 9 y 10.
 - 
+- InferenciaMAP2.R : 
