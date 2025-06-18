@@ -21,5 +21,9 @@ A continuación se describe la funcion de cada uno de los códigos realizados en
 - FuncionesInferencia.R : Contiene las funciones empleadas en el proceso de inferencia: delta, delta_beta, inference_new...
 - EjemploInferencia.R : Implementación del ejemplo dado por las matrices de la ecuación (3.22), incluyendo las Figuras 16 y 17.
 - Análisis G2.R y Análisis G3.R : Estudio de la inferencia para los intervalos G2 y G3 expuesto en la subsección 3.3.2., incluyendo las gráficas para la Figura 18 y las Tablas 9 y 10.
-- 
-- InferenciaMAP2.R : 
+- x0Calculados : Ejecuta el primer método de inferencia, basado en la ecuación (3.21), para calcular los puntos iniciales x0 utilizados en el proceso de inferencia definitivo de cada intervalo G.
+- InferenciaMAP2.R : Cálculo de las matrices D0 y D1 para cada intervalo G mediante el método de inferencia basado en la ecuación (3.23).
+
+
+## Capítulo 4
+
