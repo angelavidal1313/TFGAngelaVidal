@@ -30,8 +30,18 @@ A continuación se describe la funcion de cada uno de los códigos realizados en
 ### 4.1. Tiempos Servicio
 - TiemposServicio.R : Desarrollo del análisis completo de los tiempos de servicio, incluyendo la Figura 19 y las Tablas 11 y 12.
 - LogHistogramas.R : Implementación de la representación de los ajustes en los histogramas de los logaritmos, para las Figuras 20 y 21.
-- CrossValidation.R : Implementación de la técnica de Validacion Cruzada, incluyendo la Tabla 13.
+- CrossValidationTS.R : Implementación de la técnica de Validacion Cruzada, incluyendo la Tabla 13.
+- ParamServicio.R : Guarda los parámetros para los tiempos de servicio de cada intervalo G que se utilizarán en el simulador de la cola.
 
-### 4.2. Tiempos Impaciéncia
-- 
+### 4.2. Tiempos Impaciencia
+- TiemposImpaciencia.R : Desarrollo del análisis completo de los tiempos de impaciencia, incluyendo la Figura 22.
+- CrossValidationTI.R : Implementación de la técnica de Validacion Cruzada, incluyendo la Tabla 14.
+- ParamImpaciencia.R : Guarda los parámetros para los tiempos de servicio de cada intervalo G que se utilizarán en el simulador de la cola.
 
+### 4.3. Simulador Cola
+- SimuladorCola.R : Incluye la función simulate_MAP_PH3_qeue, así como las funciones necesarias para ejecutarla.
+
+### 4.4. Rendimiento Cola
+- TasasAbandono.R : Estudio de las tasas de abandono para la Tabla 17.
+- Figure24y25.R : Implementación de las Figura 24 y 25.
+- Tabla18.R : Estudio para la Tabla 18. 
