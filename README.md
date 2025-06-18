@@ -27,3 +27,11 @@ A continuación se describe la funcion de cada uno de los códigos realizados en
 
 ## Capítulo 4
 
+### 4.1. Tiempos Servicio
+- TiemposServicio.R : Desarrollo del análisis completo de los tiempos de servicio, incluyendo la Figura 19 y las Tablas 11 y 12.
+- LogHistogramas.R : Implementación de la representación de los ajustes en los histogramas de los logaritmos, para las Figuras 20 y 21.
+- CrossValidation.R : Implementación de la técnica de Validacion Cruzada, incluyendo la Tabla 13.
+
+### 4.2. Tiempos Impaciéncia
+- 
+
